@@ -1,4 +1,6 @@
-# Projekt transformacja, czyli Matrix - poznaj reguły gry
+## REPO_IN_PROGRESS...
+
+## Projekt transformacja, czyli Matrix - poznaj reguły gry
 
 Tutaj pojawi się 5 dni z projektu transformacji - część pierwsza
 - a
